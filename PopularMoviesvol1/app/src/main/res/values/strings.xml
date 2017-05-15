@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="popularity">Most Popular</string>
+    <string name="by_rate">Highest Rated</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_release_date">Release Date</string>
+    <string name="movie_vote_average">Vote Average</string>
+    <string name="movie_overview">Overview</string>
+    <string name="movie_title_text">Title Text</string>
+    <string name="movie_release_date_text">Release Date Text</string>
+    <string name="movie_vote_average_text">Vote Average Text</string>
+    <string name="movie_overview_text">Overview Text</string>
+    <string name="by_favourites">Favourites</string>
+    <string name="movies_label">Popular Movies</string>
+    <string name="most_popular_label">Most Popular Movies</string>
+    <string name="highest_rated_label">Highest Rated Movies</string>
+    <string name="favourites_label">Favourites Movies</string>
+    <string name="details_label">Movie Details</string>
+    <string name="button_text">Mark as\n favourite</string>
+    <string name="button_text2">Remove from\n favourites</string>
+    <string name="content_authority">com.example.szparak.popularmovies</string>
+    <string name="empty_text">no internet connection</string>
+</resources>
